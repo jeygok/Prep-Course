@@ -283,7 +283,7 @@ Te invitamos a buscar en Google información de estos conceptos para poder desar
 * Uno de los primeros resultados que vas a encontrar será MDN (Mozilla Developer Network): es una web muy completa que incluye tanto documentación como ejemplos.
 
     <summary>Spoiler, resultado de búsqueda en Google!</summary>
-    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/switch">MDN : Switch</a>
+    <a href="https://developer.mozilla.or          g/es/docs/Web/JavaScript/Reference/Statements/switch">MDN : Switch</a>
     <br>
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/do...while">MDN : Do While</a>
 
